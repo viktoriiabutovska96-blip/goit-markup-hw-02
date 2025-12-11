@@ -1,0 +1,150 @@
+body {
+     font-family: 'Roboto', sans-serif;
+     color: #434455;
+        font-size: 16px;
+        leading-trim: NONE;
+        line-height: 1.5;
+        letter-spacing: 2%;
+}
+.main-title {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 56px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-features {
+ background-color: #E7E9FC;
+}
+.section-team {
+    background-color: #F4F4FD;
+}
+.section-features-title {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 36px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-team-title {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 36px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-features-list-item-title {
+        font-weight: 500;
+        font-style: Medium;
+        font-size: 20px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-features-list-item-text {
+        font-size: 16px;
+        leading-trim: NONE;
+        line-height: 1.5;
+        letter-spacing: 2%;
+}
+.section-team-title {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 36px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-team-list-item-title {
+        font-weight: 500;
+        font-style: Medium;
+        font-size: 20px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-team-list-item-text {
+        font-size: 16px;
+        leading-trim: NONE;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-portfolio-title {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 36px;
+        leading-trim: NONE;
+        line-height: 1.1;
+        letter-spacing: 2%;
+        text-align: center;
+}
+.section-portfolio-list-item-title {
+        font-weight: 500;
+        font-style: Medium;
+        font-size: 20px;
+        leading-trim: NONE;
+        line-height: 1.2;
+        letter-spacing: 2%;
+}
+.section-portfolio-list-item-text {
+        font-size: 16px;
+        leading-trim: NONE;
+        line-height: 1.5;
+        letter-spacing: 2%;
+}
+.header {
+    background-color: #E7E9FC;
+
+}
+.header-logo {
+font-family: Raleway;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #2E2F42;
+    background-color: #F4F4FD;
+}
+
+.accent {
+    font-family: Raleway;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 18px;
+        leading-trim: NONE;
+        line-height: 1.2;
+        letter-spacing: 3%;
+        vertical-align: middle;
+        text-transform: uppercase;
+        color:#4D5AE5;
+}
+.main-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+
+
+}
+.main-button:hover {
+    color: #404BBF;
+    cursor: pointer;
+}
+.header-address-link:hover {
+ color: #404BBF;
+}
+.section-main {
+    background-color: #2E2F42;
+}
