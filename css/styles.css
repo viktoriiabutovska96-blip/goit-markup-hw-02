@@ -16,13 +16,13 @@ body {
         text-align: center;
 }
 .section-features {
-    background-color: #E7E9FC;
+    background: #E7E9FC;
 }
 .section-team {
-    background-color: #F4F4FD;
+    background: #F4F4FD;
     }
 .section-portfolio {
-    background-color: #E7E9FC;
+    background: #E7E9FC;
 }
 .section-features-title {
         font-weight: 700;
@@ -106,7 +106,7 @@ body {
         letter-spacing: 2%;
 }
 .header {
-    background-color: #E7E9FC;
+    background: #E7E9FC;
 
 }
 .header-logo {
@@ -135,7 +135,7 @@ body {
         color:#4D5AE5;
 }
 .main-button {
-    background-color: #4D5AE5;
+    background: #4D5AE5;
     color: #FFFFFF;
 }
 .main-button:hover,
@@ -149,10 +149,10 @@ body {
  color: #404BBF;
 }
 .section-main {
-    background-color: #2E2F42;
+    background: #2E2F42;
 }
 .footer {
-    background-color: #2E2F42;
+    background: #2E2F42;
 }
 .footer-logo {
     color: #F4F4FD;
