@@ -14,16 +14,11 @@ body {
         line-height: 1.1;
         letter-spacing: 2%;
         text-align: center;
-}
-.section-features {
-    background-color: #E7E9FC;
+        color: #FFFFFF;
 }
 .section-team {
     background-color: #F4F4FD;
     }
-.section-portfolio {
-    background-color: #E7E9FC;
-}
 .section-features-title {
         font-weight: 700;
         font-style: Bold;
@@ -42,6 +37,9 @@ body {
         letter-spacing: 2%;
         text-align: center;
 }
+.section-team-list-item {
+    background-color: #FFFFFF;
+}
 .section-features-list-item-title {
         font-weight: 500;
         font-style: Medium;
@@ -49,7 +47,6 @@ body {
         leading-trim: NONE;
         line-height: 1.1;
         letter-spacing: 2%;
-        text-align: center;
 }
 .section-features-list-item-text {
         font-size: 16px;
@@ -105,10 +102,6 @@ body {
         line-height: 1.5;
         letter-spacing: 2%;
 }
-.header {
-    background-color: #E7E9FC;
-
-}
 .header-logo {
  font-family: Raleway;
     font-weight: 700;
@@ -155,5 +148,26 @@ body {
     background-color: #2E2F42;
 }
 .footer-logo {
+     color: #F4F4FD;
+     font-family: Raleway;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 18px;
+        leading-trim: NONE;
+        line-height: 21px;
+        letter-spacing: 3%;
+        vertical-align: middle;
+        text-transform: uppercase;
+}
+.footer-text {
     color: #F4F4FD;
+}
+.section-features-list {
+    list-style-type: none;
+}
+.section-team-list {
+    list-style-type: none;
+}
+.section-portfolio-list {
+    list-style-type: none;
 }
