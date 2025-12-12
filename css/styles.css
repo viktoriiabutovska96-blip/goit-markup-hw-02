@@ -16,10 +16,13 @@ body {
         text-align: center;
 }
 .section-features {
- background-color: #E7E9FC;
+    background-color: #E7E9FC;
 }
 .section-team {
     background-color: #F4F4FD;
+    }
+.section-portfolio {
+    background-color: #E7E9FC;
 }
 .section-features-title {
         font-weight: 700;
@@ -107,7 +110,7 @@ body {
 
 }
 .header-logo {
-font-family: Raleway;
+ font-family: Raleway;
     font-weight: 700;
     font-style: Bold;
     font-size: 18px;
@@ -117,11 +120,10 @@ font-family: Raleway;
     vertical-align: middle;
     text-transform: uppercase;
     color: #2E2F42;
-    background-color: #F4F4FD;
 }
 
 .accent {
-    font-family: Raleway;
+     font-family: Raleway;
         font-weight: 700;
         font-style: Bold;
         font-size: 18px;
@@ -135,16 +137,23 @@ font-family: Raleway;
 .main-button {
     background-color: #4D5AE5;
     color: #FFFFFF;
-
-
 }
-.main-button:hover {
+.main-button:hover,
+.main-button:focus,
+.main-button:active {
     color: #404BBF;
     cursor: pointer;
 }
-.header-address-link:hover {
+.header-address-link:hover,
+.header-address-link:focus {
  color: #404BBF;
 }
 .section-main {
     background-color: #2E2F42;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.footer-logo {
+    color: #F4F4FD;
 }
