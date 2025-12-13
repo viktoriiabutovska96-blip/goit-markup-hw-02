@@ -2,17 +2,17 @@ body {
      font-family: 'Roboto', sans-serif;
      color: #434455;
         font-size: 16px;
-        leading-trim: NONE;
         line-height: 1.5;
-        letter-spacing: 2%;
+        letter-spacing: 0.02em;
+}
+.main {
+        font-size: 36px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
 }
 .main-title {
         font-weight: 700;
-        font-style: Bold;
         font-size: 56px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
         text-align: center;
         color: #FFFFFF;
 }
@@ -21,108 +21,83 @@ body {
     }
 .section-features-title {
         font-weight: 700;
-        font-style: Bold;
-        font-size: 36px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
         text-align: center;
+        color: #2e2f42;
 }
 .section-team-title {
         font-weight: 700;
-        font-style: Bold;
-        font-size: 36px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
         text-align: center;
+        color: #2e2f42;
 }
 .section-team-list-item {
     background-color: #FFFFFF;
 }
 .section-features-list-item-title {
         font-weight: 500;
-        font-style: Medium;
         font-size: 20px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
+        color: #2e2f42;
 }
 .section-features-list-item-text {
         font-size: 16px;
-        leading-trim: NONE;
         line-height: 1.5;
-        letter-spacing: 2%;
 }
 .section-team-title {
         font-weight: 700;
-        font-style: Bold;
-        font-size: 36px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
         text-align: center;
+        color: #2e2f42;
 }
 .section-team-list-item-title {
         font-weight: 500;
-        font-style: Medium;
         font-size: 20px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
         text-align: center;
+        color: #2e2f42;
 }
 .section-team-list-item-text {
         font-size: 16px;
-        leading-trim: NONE;
         line-height: 1.5;
-        letter-spacing: 2%;
         text-align: center;
 }
 .section-portfolio-title {
         font-weight: 700;
-        font-style: Bold;
-        font-size: 36px;
-        leading-trim: NONE;
-        line-height: 1.1;
-        letter-spacing: 2%;
         text-align: center;
+        color: #2e2f42;
 }
 .section-portfolio-list-item-title {
         font-weight: 500;
-        font-style: Medium;
         font-size: 20px;
-        leading-trim: NONE;
         line-height: 1.2;
-        letter-spacing: 2%;
+        color: #2e2f42;
 }
 .section-portfolio-list-item-text {
         font-size: 16px;
-        leading-trim: NONE;
         line-height: 1.5;
-        letter-spacing: 2%;
 }
 .header-logo {
  font-family: Raleway;
     font-weight: 700;
-    font-style: Bold;
     font-size: 18px;
-    leading-trim: NONE;
     line-height: 21px;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     vertical-align: middle;
     text-transform: uppercase;
     color: #2E2F42;
 }
-
+.header-navigation-link {
+    color: #2E2F42;
+}
+.header-navigation-link:hover,
+.header-navigation-link:focus {
+    color: #404bbf;
+}
+.header-address-link {
+    font-style: normal;
+}
 .accent {
      font-family: Raleway;
         font-weight: 700;
-        font-style: Bold;
         font-size: 18px;
-        leading-trim: NONE;
         line-height: 1.2;
-        letter-spacing: 3%;
+        letter-spacing: 0.03em;
         vertical-align: middle;
         text-transform: uppercase;
         color:#4D5AE5;
@@ -130,12 +105,19 @@ body {
 .main-button {
     background-color: #4D5AE5;
     color: #FFFFFF;
+    font-family: Roboto, sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        vertical-align: middle;
 }
 .main-button:hover,
 .main-button:focus,
 .main-button:active {
     color: #404BBF;
     cursor: pointer;
+    background-color: #404bbf;
 }
 .header-address-link:hover,
 .header-address-link:focus {
@@ -151,11 +133,9 @@ body {
      color: #F4F4FD;
      font-family: Raleway;
         font-weight: 700;
-        font-style: Bold;
         font-size: 18px;
-        leading-trim: NONE;
         line-height: 21px;
-        letter-spacing: 3%;
+        letter-spacing: 0.03em;
         vertical-align: middle;
         text-transform: uppercase;
 }
