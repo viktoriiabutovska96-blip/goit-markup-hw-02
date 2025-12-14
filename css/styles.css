@@ -89,10 +89,9 @@ body {
  font-family: Raleway;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
-    vertical-align: middle;
     text-transform: uppercase;
     color: #2E2F42;
 }
@@ -119,9 +118,8 @@ body {
      font-family: Raleway;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
-        vertical-align: middle;
         text-transform: uppercase;
         color:#4D5AE5;
 }
@@ -156,10 +154,9 @@ body {
      font-family: Raleway;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-decoration: none;
-        vertical-align: middle;
         text-transform: uppercase;
 }
 .footer-text {
